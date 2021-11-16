@@ -1,4 +1,13 @@
 username,counting-sheep-dot-dot-dot,fake-binary,counting-in-the-amazon,deodorant-evaporator,tests-results,count-the-smiley-faces,keep-hydrated-1
+<<<<<<< HEAD
+FerZZ,True,True,True,True,True,True,False
+juanchovpa,True,True,True,False,False,True,True
+Juanpda,False,True,True,True,True,False,True
+daniela-arias,True,True,False,True,False,True,False
+baccandres,True,True,True,True,True,True,True
+silviarico,False,True,True,False,True,True,True
+EduardoRivera_98,True,True,True,True,True,False,False
+=======
 FerZZ,True,True,True,True,True,True,True
 juanchovpa,True,True,True,False,False,True,True
 Juanpda,False,True,True,True,True,False,True
@@ -6,14 +15,20 @@ daniela-arias,True,True,False,True,False,True,True
 baccandres,True,True,True,True,True,True,True
 silviarico,False,True,True,False,True,True,True
 EduardoRivera_98,True,True,True,True,True,False,True
+>>>>>>> 7c2b6e21a5ddc8537c26ddcdf5bd2527d237cf31
 LuisSerranoCerame,True,True,True,False,True,True,True
 mariaperezdeayalas,True,True,True,True,False,True,True
 NicolasPce,True,True,True,True,True,True,True
 bvispo,True,True,True,True,False,False,True
 mariadelas,True,True,True,False,True,True,True
 a_romegar,True,True,True,True,True,True,True
+<<<<<<< HEAD
+Roblak96,False,True,False,True,False,True,False
+LydiaAR,True,True,False,True,False,False,False
+=======
 Roblak96,False,True,False,True,False,True,True
 LydiaAR,True,True,False,True,False,False,True
+>>>>>>> 7c2b6e21a5ddc8537c26ddcdf5bd2527d237cf31
 beatrizsp,True,True,False,True,False,True,True
 elliotesp,True,True,True,True,True,True,True
 Carlosleono,True,True,True,True,True,True,True
@@ -21,7 +36,11 @@ pedromartinezleis,True,True,True,True,True,True,True
 Danihelguera,True,True,True,True,True,True,True
 sinatxe,True,True,True,True,True,True,True
 Andrestart,True,True,True,True,True,True,True
+<<<<<<< HEAD
+Pnat1,False,True,True,True,True,False,False
+=======
 Pnat1,False,True,True,True,True,False,True
+>>>>>>> 7c2b6e21a5ddc8537c26ddcdf5bd2527d237cf31
 TheIronhidex,True,True,True,True,True,True,True
 AnaWalsh,True,False,False,True,False,False,True
 Afidalgo-fmm,True,True,True,True,True,True,True

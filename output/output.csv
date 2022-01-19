@@ -1,16 +1,16 @@
-username,counting-sheep-dot-dot-dot,regular-ball-super-ball
-sergiomessaoudi,False,True
-SergioMB12,True,True
-DiSanchz,True,True
-ce-valle,True,True
-VictorPablo12,True,True
-AntonioLopga12,True,True
-Gitfracto,True,True
-juanamir,False,False
-Pomilusky,True,True
-pablomora213,True,True
-evaarquero,True,True
-rodrigogalan,True,True
-Jesus Chao,True,True
-mariozapatero,True,True
-Marilyn,True,False
+username,counting-sheep-dot-dot-dot,regular-ball-super-ball,fake-binary,counting-in-the-amazon
+sergiomessaoudi,False,True,False,False
+SergioMB12,True,True,True,False
+DiSanchz,True,True,True,True
+ce-valle,True,True,True,False
+VictorPablo12,True,True,False,False
+AntonioLopga12,True,True,False,False
+Gitfracto,True,True,True,False
+juanamir,False,False,False,False
+Pomilusky,True,True,True,True
+pablomora213,True,True,False,False
+evaarquero,True,True,True,False
+rodrigogalan,True,True,True,True
+Jesus Chao,True,True,False,False
+mariozapatero,True,True,False,False
+Marilyn,True,False,False,False

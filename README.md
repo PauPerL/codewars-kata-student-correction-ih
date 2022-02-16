@@ -22,10 +22,9 @@ Pide a tus alumnos que te hagan llegar sus usuarios de codewars.
 #### katas.csv
 Encontrarás algo así. 
 ```
-slug,date,minutes
-regexp-fun-number-1-when-i-miss-few-days-of-gym,2019-02-01T16:20:21.241Z,60
-deodorant-evaporator,2019-02-01T16:20:21.241Z,60
-ordered-count-of-characters,2019-02-13T10:00:00.241Z,45
+id,slug,date,minutes
+54edbc7200b811e956000556,counting-sheep-dot-dot-dot,2020-10-20T12:00:00.000Z,180.0
+57eae65a4321032ce000002d,fake-binary,2020-10-21T012:30:00.000Z,60.0
 ```
 Solo deberás crear el contenido en función de las katas que hayas enviado, cuando las hayas enviado y el tiempo que les has dado para resolverla. 
 La primera linea son los nombres de los campos de cada kata que envías. 
@@ -35,6 +34,8 @@ La primera linea son los nombres de los campos de cada kata que envías.
 
 NOTAS: 
 1. Si se empieza el CSV con solo una kata, dará fallo, poned 2. 
+2. Para incluir una kata nueva de la cual desconocemos el `slug`(nombre modificado que nos da la api y del cual tira el código para comprobar si las han hecho), insertar fila dejando el hueco de la columna `slug`, asi:
+```59fa8e2646d8433ee200003f,,2022-02-16T12:30:00.000Z,120.0```
 
 
 #### students.csv

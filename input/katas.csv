@@ -8,4 +8,9 @@ id,slug,date,minutes
 583203e6eb35d7980400002a,count-the-smiley-faces,2022-03-30T12:30:00.000Z,120.0
 582cb0224e56e068d800003c,keep-hydrated-1,2022-03-31T12:00:00.000Z,120.0
 556deca17c58da83c00002db,tribonacci-sequence,2022-03-31T12:00:00.000Z,180.0
-5a5f9f80f5dc3f942b002309,schrodingers-boolean,2022-04-04T12:00:00.000Z,5900.0
+5a5f9f80f5dc3f942b002309,schrodingers-boolean,2022-04-01T12:00:00.000Z,5900.0
+554e4a2f232cdd87d9000038,complementary-dna,2022-04-04T12:30:00.000Z,180.0
+5ab7a736edbcfc8e62000007,sql-with-sailor-moon-thinking-about-joins-dot-dot-dot,2022-04-05T12:30:00.000Z,180.0
+593ef0e98b90525e090000b9,sql-basics-monsters-using-case,2022-04-06T12:30:00.000Z,180.0
+5abcf0f930488ff1a6000b66,sql-with-harry-potter-sorting-hat-comparators,2022-04-06T12:30:00.000Z,180.0
+5ae7e3f068e6445bc8000046,see-you-next-happy-year,2022-04-07T12:30:00.000Z,180.0
